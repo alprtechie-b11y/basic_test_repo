@@ -1,2 +1,2 @@
 # basic_test_repo
-using it for basic tests
+using it for basic daily tests
